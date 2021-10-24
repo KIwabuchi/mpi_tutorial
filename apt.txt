@@ -4,8 +4,4 @@ gcc-8
 g++-8
 vim
 emacs
-openmpi-bin
-openmpi-dev
-openmpi-common
-openmpi-doc
-libopenmpi-dev
+mpi
