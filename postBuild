@@ -1,1 +1,1 @@
-cd /tmp && wget -q --no-check-certificate https://boostorg.jfrog.io/artifactory/main/release/1.77.0/source/boost_1_77_0.tar.gz && tar xf boost_1_77_0.tar.gz && rm -f boost_1_77_0.tar.gz
+cd /tmp && wget -q --no-check-certificate https://github.com/Kitware/CMake/releases/download/v3.22.0-rc1/cmake-3.22.0-rc1-linux-x86_64.tar.gz && tar xf cmake-3.22.0-rc1-linux-x86_64.tar.gz –C /tmp/cmake && rm -f cmake-3.22.0-rc1-linux-x86_64.tar.gz
