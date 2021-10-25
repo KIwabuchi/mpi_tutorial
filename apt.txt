@@ -3,4 +3,6 @@ gcc-8
 g++-8
 vim
 emacs
-mpi
+libcr-dev
+mpich2
+mpich2-doc
