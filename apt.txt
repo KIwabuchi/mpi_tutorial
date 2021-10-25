@@ -3,6 +3,4 @@ gcc-8
 g++-8
 vim
 emacs
-libcr-dev
-mpich2
-mpich2-doc
+mpi-default-dev
