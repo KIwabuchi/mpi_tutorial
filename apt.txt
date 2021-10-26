@@ -5,3 +5,4 @@ vim
 emacs
 mpi-default-dev
 openmpi-common
+libopenmpi2
