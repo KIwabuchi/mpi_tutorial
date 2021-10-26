@@ -6,3 +6,4 @@ emacs
 mpi-default-dev
 openmpi-common
 libopenmpi2
+openmpi-bin
