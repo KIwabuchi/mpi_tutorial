@@ -4,3 +4,4 @@ g++-8
 vim
 emacs
 mpi-default-dev
+openmpi-common
